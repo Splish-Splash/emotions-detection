@@ -15,5 +15,7 @@ For face detection was used OpenCV cascade classifier
 ## Emotion classification
 For emotion classification was used Resnet18, that were trained on affectnet dataset for ~hour. On inference this model predicts emotion on faces that were detected by face detector (OpenCV classifier)
 
+![image](https://user-images.githubusercontent.com/56451080/214514948-fa83491b-dc64-4779-af11-8d2efff94ac8.png)
+
 
 

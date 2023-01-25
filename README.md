@@ -10,7 +10,6 @@ For object detection(blue bounding boxes and green text-confidence level) was us
 ## Face detection
 For face detection was used OpenCV cascade classifier
 
-![image](https://user-images.githubusercontent.com/56451080/214512794-5e2dd225-ede6-4ee3-aba9-1d09210cfd57.png)
 <img width="256px" allign="center" src="https://user-images.githubusercontent.com/56451080/214512794-5e2dd225-ede6-4ee3-aba9-1d09210cfd57.png" />
 
 ## Emotion classification
